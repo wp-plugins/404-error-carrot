@@ -13,8 +13,8 @@ Here is a short description of the plugin.  This should be no more than 150 char
 Custom 404 error carrot page is an Internet art project.
 It puts an image of bunch carrots on your 404 error page which is only seen when someone reaches nonexistent page anyway. 
 The goal of this project is light weight advertisement for vegetables ;), 
-more about this project on http://404-carrot.org.
-Even though the plug-in is easily installable you have to touch your template folder as well.
+more about this project on http://404-carrot.org/wordpress-plugin	.
+Even though the plug-in is easily installable you have to touch your template folder as well. Put this code into 404.php page in your template folder if (function_exists(’funct_404_error_carrot’)) { funct_404_error_carrot() ; }. 
 
 == Installation ==
 
