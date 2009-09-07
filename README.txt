@@ -22,8 +22,8 @@ funct_404_error_carrot();".
 This section describes how to install the plugin and get it working.
 
 * Download  it from http://404-carrot.org or from Wordpress plugin directory http://wordpress.org/extend/plugins/404-error-carrot/.
-* Once you activate the plug-in go to your current template folder (wp-content/themes/your-template/) and put the following piece of code into the 404.php file.
-<?php if (function_exists('funct_404_error_carrot')) funct_404_error_carrot(); ?>
+* Once you activate the plug-in go to your current template folder (wp-content/themes/your-template/) and put the following piece of PHP code into the 404.php file.
+"if (function_exists('funct_404_error_carrot')) funct_404_error_carrot();"
 If it doesn’t exists then create it your self. The best put in to the 404.php file also the header, sidebar, and footer as well. Then the page will looks the same as your regular page but the information of nonexistent content with a carrot on the top :)
 
 == Frequently Asked Questions ==
