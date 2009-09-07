@@ -33,6 +33,7 @@ If you have any questions go to http://404-carrot.org/wordpress-plugin
 == Screenshots ==
 
 http://404-carrot.org/screenshot-gallery
+404-carrot-250x150.jpg
 
 == Changelog ==
 
