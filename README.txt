@@ -3,7 +3,7 @@ Contributors: 2046
 Donate link: http://404-carrot.org
 Tags: 404, error, vegetables,
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 2.8
 Stable tag: 4.3
 
 Here is a short description of the plugin.  This should be no more than 150 chars.  No markup here.
